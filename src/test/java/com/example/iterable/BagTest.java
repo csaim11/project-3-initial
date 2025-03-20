@@ -10,6 +10,8 @@ import java.util.Spliterator;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+//BagTest class to test the functionality of the Bag class
+
 public class BagTest {
 
     private Bag<String> bag;
